@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acephal
 - 👀 I’m interested in everything, especially in books, films and rock-music
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML - CSS - Javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me olegne4iparenka@gmail.com, @filatovssv (telegram)
 
